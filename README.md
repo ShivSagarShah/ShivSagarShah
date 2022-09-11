@@ -6,8 +6,6 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
 - Full Stack Developer Intern at **Infinite Locus**.
-- Former *Research Intern* at **DRDO Benagluru** where I have done the Development of an AI platform as a
-service (AI-PaaS) for inferencing on specified large volume datasets
 
 <br>
 
